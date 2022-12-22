@@ -3,9 +3,7 @@
 <h1 align="center">Meu nome é Rachel Lizandra</h1>
 
 <div>
-<a href="https://github.com/rachellizandra">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachellizandra&layout=compact&langs_count=7&theme=dracula"/>   
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rachellizandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/rachellizandra"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachellizandra&layout=compact&langs_count=7&theme=dracula"/> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rachellizandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
  </br>
@@ -31,7 +29,7 @@
 
  # Contatos
 
-  <a href="https://www.instagram.com/rachel.lizandra/"> <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" style="vertical-align:top;"> </a> <a href="https://www.linkedin.com/in/rachel-lizandra-96a430169/"> <img width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="vertical-align:top;"> </a> <a href="mailto:rachellizandra@gmail.com"> <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="vertical-align:top;"></a>
+  <a href="https://www.instagram.com/rachel.lizandra/"> <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" style="vertical-align:top;"> </a> <a href="https://www.linkedin.com/in/rachel-lizandra-96a430169/"> <img width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="vertical-align:top;"> </a> <a href="mailto:rachellizandra@gmail.com"> <img width="50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="vertical-align:top;"> </a>
 
 
 
