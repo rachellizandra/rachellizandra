@@ -10,7 +10,7 @@
  
  </br>
 
- <p justify-content="center">Tenho 23 anos, sou LGBTQIA+ e recifense antes mesmo de existir! Gosto de músicas emo, Doja Cat, jogo RPG e gosto de planejar meus estudos de forma bem sistemática. Sou formada em Química Industrial e estou há um ano em transição de carreira para área Tech. Sou iniciante em desenvolvimento back-end, formada no curso de JavaScript/Node.js pela {Reprograma} e atualmente sou estudante de Java pela Ada em parceria com a Americanas S.A. Tenho conhecimentos básicos de Front-end, como HTML, CSS3 e o framework Angular.
+ <p align="justify">Tenho 23 anos, sou LGBTQIA+ e recifense antes mesmo de existir! Gosto de músicas emo, Doja Cat, jogo RPG e gosto de planejar meus estudos de forma bem sistemática. Sou formada em Química Industrial e estou há um ano em transição de carreira para área Tech. Sou iniciante em desenvolvimento back-end, formada no curso de JavaScript/Node.js pela {Reprograma} e atualmente sou estudante de Java pela Ada em parceria com a Americanas S.A. Tenho conhecimentos básicos de Front-end, como HTML, CSS3 e o framework Angular.
 
 - Atualmente estou aprendendo PowerBI, Google Cloud e AWS, além de intensivar meus estudos em JavaScript e Java;
 - Alguns dos meus projetos mais importantes foram: criação de uma API que busca bibliotecas acessíveis, projeto 'EnsinaElas' usando CRUD para buscar, cadastrar e atualizar instituições que ensinem crianças, mulheres cis, trans e homens trans a cuidarem do seu corpo com foco na saúde e bem-estar; 
