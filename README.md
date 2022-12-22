@@ -1,5 +1,19 @@
 <h2 align="center"> Hello, there 👋 :rainbow: </h2>
-<a align="center" href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/29da3fdc-d22a-4d1f-8239-d741dfc15785/d6xxz7b-5bc0943a-6ae7-4ae6-8a41-70c6343f3b55.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5ZGEzZmRjLWQyMmEtNGQxZi04MjM5LWQ3NDFkZmMxNTc4NVwvZDZ4eHo3Yi01YmMwOTQzYS02YWU3LTRhZTYtOGE0MS03MGM2MzQzZjNiNTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.c6a4kAplkNXuppt0vs5-qVzr4oAF_dv7vX_tMje6nxg">
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Rachel Lizandra</h1>
+ <a href="https://www.instagram.com/rachel.lizandra/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a>
+  <a href="[https://www.linkedin.com/in/jeniffer-bittencourt](https://www.linkedin.com/in/rachel-lizandra-96a430169/)">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
 <div>
 <a href="https://github.com/rachellizandra">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachellizandra&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,7 +28,7 @@ Sou a Rachel Lizandra, tenho 23 anos, sou LGBTQIA+ e recifense antes mesmo de ex
 
 ## 🖥️ Tecnologia e ferramentas 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
           
 
  ## Contato
