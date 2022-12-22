@@ -1,6 +1,4 @@
 <h2 align="center"> Hello, there 👋 :rainbow: </h2>
-
-</br>
  
  <h1 align="center">Rachel Lizandra</h1>
 
@@ -22,15 +20,13 @@
           
 
  ## Contato
- 
- </br>
 
 Você pode falar comigo pelo [Instagram](https://www.instagram.com/rachel.lizandra/) ou pelo [LinkedIn](https://www.linkedin.com/in/rachel-lizandra-96a430169/) ou por [e-mail](mailto:rachellizandra@gmail.com) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =D
 
   <a href="https://www.instagram.com/rachel.lizandra/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="center" width="80px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" style="vertical-align:top;">
   </a>
-  <a href="[https://www.linkedin.com/in/jeniffer-bittencourt](https://www.linkedin.com/in/rachel-lizandra-96a430169/)">
+  <a href="[https://www.linkedin.com/in/rachel-lizandra-96a430169/](https://www.linkedin.com/in/rachel-lizandra-96a430169/)">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
