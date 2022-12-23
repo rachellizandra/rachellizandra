@@ -32,8 +32,7 @@
  
  <div dsplay="inline-block">
  
- <a href="https://www.instagram.com/jeniblo_dev/">
-  <a href="https://www.instagram.com/rachel.lizandra/"> <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" style="vertical-align:top;">
+ <a href="https://www.instagram.com/rachel.lizandra/"> <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" style="vertical-align:top;">
  </a>
   <a href="https://www.linkedin.com/in/rachel-lizandra-96a430169/"> <img width="50px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="vertical-align:top;">
  </a>
