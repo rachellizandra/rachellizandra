@@ -1,6 +1,6 @@
-<h2 align="center"> Hello, there 👋 :rainbow: </h2>
+<h1 align="center"> Hello, there 👋 :rainbow: </h1>
  
-<h1 align="center">Meu nome é Rachel Lizandra</h1>
+<h2 align="center">Meu nome é Rachel Lizandra</h2>
 
 <div align="center">
 <a href="https://github.com/rachellizandra"> 
