@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, there 👋 :rainbow: </h1>
  
-<h2 align="center">Meu nome é Rachel Lizandra</h2>
+<h2 align="center">My name is Rachel Lizandra</h2>
 
 <div align="center">
 <a href="https://github.com/rachellizandra"> 
@@ -9,14 +9,11 @@
  
  </br>
 
- <p align="justify">Tenho 23 anos, sou LGBTQIA+ e recifense antes mesmo de existir! Gosto de músicas emo, Doja Cat, jogo RPG e gosto de planejar meus estudos de forma bem sistemática. Sou formada em Química Industrial e estou há um ano em transição de carreira para área Tech. Sou iniciante em desenvolvimento back-end, formada no curso de JavaScript/Node.js pela {Reprograma} e atualmente sou estudante de Java pela Ada em parceria com a Americanas S.A. Tenho conhecimentos básicos de Front-end, como HTML, CSS3 e o framework Angular.
+ <p align="justify">I have knowledge and experience in software development as a junior back-end and Salesforce Developer in the languages APEX and Java with Spring Boot, and JavaScript using Node.js. Currently, I am working as Salesforce Developer. I also have strong knowledge in front-end, such as LWC, Visualforce, Aura, HTML 5, CSS3, and the Angular framework.
 
-- Atualmente estou aprendendo PowerBI, Google Cloud e AWS, além de intensivar meus estudos em JavaScript e Java;
-- Alguns dos meus projetos mais importantes foram: criação de uma API que busca bibliotecas acessíveis, projeto 'EnsinaElas' usando CRUD para buscar, cadastrar e atualizar instituições que ensinem crianças, mulheres cis, trans e homens trans a cuidarem do seu corpo com foco na saúde e bem-estar; 
-- A partir desses cursos e projetos, estou desenvolvendo mais habilidades não só técnicas, mas também outras soft skills como comunicação, trabalho em equipe, criatividade e proatividade.</p>
+# 🖥️ Technologies e tools 
 
-# 🖥️ Tecnologia e ferramentas 
-
+<code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" title = "SALESFORCE"/></code>
 <code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title = "NODEJS"/></code>
@@ -28,7 +25,7 @@
 <code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 
- # Contatos
+ # Contacts
  
  <div dsplay="inline-block">
  
